@@ -1,0 +1,3 @@
+<!--pages/test1/test.wxml-->
+<!--在js中的PAGE里声明跳转函数并使用wx.navigateTo函数实现跳转，用例看index跳test，用bindTest-->
+
