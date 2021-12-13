@@ -3,7 +3,7 @@
         "pages/index/index",
         "pages/logs/logs",
         "pages/mine/mine",
-        "pages/test2/test"
+        "pages/postTask/postTask"
     ],
     "window": {
         "backgroundTextStyle": "light",
@@ -26,7 +26,7 @@
             {
                 "selectedIconPath": "images/top-fill.png",
                 "iconPath": "images/top.png",
-                "pagePath": "pages/test2/test",
+                "pagePath": "pages/postTask/postTask",
                 "text": "发布任务"
             },
             {
