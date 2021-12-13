@@ -7,6 +7,10 @@
   color: #aaa;
 }
 
+.abc{
+  text-align: center;
+}
+
 .userinfo-avatar {
   overflow: hidden;
   width: 128rpx;
