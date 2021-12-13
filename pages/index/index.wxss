@@ -38,7 +38,6 @@
 }
 swiper{
   background-color: #cac9c9;
-  padding-bottom: 0%;
 }
 
 .textLocation{

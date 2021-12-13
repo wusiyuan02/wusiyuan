@@ -3,7 +3,8 @@
         "pages/index/index",
         "pages/logs/logs",
         "pages/mine/mine",
-        "pages/postTask/postTask"
+        "pages/postTask/postTask",
+        "pages/unfinishedTask/unfinishedTask"
     ],
     "window": {
         "backgroundTextStyle": "light",
@@ -32,7 +33,7 @@
             {
                 "selectedIconPath": "images/writing-fill.png",
                 "iconPath": "images/writing.png",
-                "pagePath": "pages/logs/logs",
+                "pagePath": "pages/unfinishedTask/unfinishedTask",
                 "text": "未完成任务"
             },
             {
