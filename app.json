@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 {
     "pages": [
         "pages/index/index",
@@ -45,51 +45,4 @@
             }
         ]
     }
-=======
-{
-    "pages": [
-        "pages/index/index",
-        "pages/logs/logs",
-        "pages/mine/mine",
-        "pages/test2/test"
-    ],
-    "window": {
-        "backgroundTextStyle": "light",
-        "navigationBarBackgroundColor": "#fff",
-        "navigationBarTitleText": "Weixin",
-        "navigationBarTextStyle": "black"
-    },
-    "style": "v2",
-    "sitemapLocation": "sitemap.json",
-    "tabBar": {
-        "color": "#a9b7b7",
-        "selectedColor": "#96CDCD",
-        "list": [
-            {
-                "selectedIconPath": "images/all-fill.png",
-                "iconPath": "images/all.png",
-                "pagePath": "pages/index/index",
-                "text": "任务大厅"
-            },
-            {
-                "selectedIconPath": "images/top-fill.png",
-                "iconPath": "images/top.png",
-                "pagePath": "pages/test2/test",
-                "text": "发布任务"
-            },
-            {
-                "selectedIconPath": "images/writing-fill.png",
-                "iconPath": "images/writing.png",
-                "pagePath": "pages/logs/logs",
-                "text": "未完成任务"
-            },
-            {
-                "selectedIconPath": "images/mine-fill.png",
-                "iconPath": "images/mine.png",
-                "pagePath": "pages/mine/mine",
-                "text": "我的"
-            }
-        ]
-    }
->>>>>>> Stashed changes
 }
