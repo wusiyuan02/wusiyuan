@@ -1,4 +1,6 @@
 {
-  "usingComponents": {},
-  "navigationBarTitleText": "人人帮"
+  "navigationBarTitleText": "人人帮",
+  "usingComponents": {
+  "pullfresh": "../../Component/pullfresh/pullfresh"
+}
 }

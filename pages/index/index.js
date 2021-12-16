@@ -4,7 +4,6 @@ const app = getApp()
 
 Page({
   data: {
-    message:"跳转到test",
     motto: 'Hello World',
     currentTab: 0,
     userInfo: {},
